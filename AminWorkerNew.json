@@ -140,7 +140,7 @@
     {
       "packet_encoding": "",
       "server": "198.41.216.11",
-      "server_port": 443,
+      "server_port": 2087,
       "tls": {
         "alpn": [
           "h3"
